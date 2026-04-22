@@ -1,0 +1,7 @@
+*.bak
+*.o
+*.out
+/build
+cmake-build*
+.vscode
+.idea
